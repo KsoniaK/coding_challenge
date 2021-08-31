@@ -1,3 +1,4 @@
+USE coding_challenge;
 CREATE TABLE `USER` (
 	`id_user` INT(4) NOT NULL AUTO_INCREMENT,
 	`nom_user` varchar(255) NOT NULL,

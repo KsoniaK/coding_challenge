@@ -8,9 +8,6 @@ class Series extends React.Component {
 
         this.state = {
             series: []
-        //    titre_media: "",
-        //    image_media:"",
-        //    date_sortie_media: ""
         }
     }
 

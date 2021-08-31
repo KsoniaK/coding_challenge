@@ -6,8 +6,8 @@ const dbConnexion = mysql.createConnection({
     host: "localhost",
     database: "coding_challenge",
     user: "root",
-    password: "",
-    port: 3306,
+    password: "root",
+    port: 8889,
     // socketPath: "/tmp/mysql.sock",
     strict: false //QUAND DES VALEURS SONT NULL IL LES PREND EN COMPTE 
 })

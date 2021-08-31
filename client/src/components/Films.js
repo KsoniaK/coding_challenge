@@ -8,18 +8,8 @@ class Films extends React.Component {
 
         this.state = {
             films: []
-            // titre_media: "",
-            // image_media:"",
-            // date_sortie_media: ""
          }
      }
-
-    // handleChange = (e) => {
-    //     let target = e.target;
-    //     this.setState({
-    //         [target.name]: target.value
-    //     })
-    // }
 
    
     componentDidMount (){
